@@ -1,1 +1,1 @@
-Componente de React con react-video-player.
+Componente de React con react-player.
