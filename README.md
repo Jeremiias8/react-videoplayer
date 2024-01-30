@@ -1,1 +1,1 @@
-Componente de React con react-player.
+· Componente de React con el paquete para reproducir, react-player.
